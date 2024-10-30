@@ -1,0 +1,1 @@
+drop procedure if exists lightningimport_create_db_objects;
